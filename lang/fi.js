@@ -1,5 +1,3 @@
-﻿/*
- Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("codesnippet","fi",{button:"Lisää koodileike",codeContents:"Koodisisältö",emptySnippetError:"Koodileike ei voi olla tyhjä.",language:"Kieli",title:"Koodileike",pathName:"koodileike"});
+﻿CKEDITOR.plugins.setLang("forms","fi",{button:{title:"Painikkeen ominaisuudet",text:"Teksti (arvo)",type:"Tyyppi",typeBtn:"Painike",typeSbm:"Lähetä",typeRst:"Tyhjennä"},checkboxAndRadio:{checkboxTitle:"Valintaruudun ominaisuudet",radioTitle:"Radiopainikkeen ominaisuudet",value:"Arvo",selected:"Valittu",required:"Required"},form:{title:"Lomakkeen ominaisuudet",menu:"Lomakkeen ominaisuudet",action:"Toiminto",method:"Tapa",encoding:"Enkoodaus"},hidden:{title:"Piilokentän ominaisuudet",name:"Nimi",value:"Arvo"},
+select:{title:"Valintakentän ominaisuudet",selectInfo:"Info",opAvail:"Ominaisuudet",value:"Arvo",size:"Koko",lines:"Rivit",chkMulti:"Salli usea valinta",required:"Required",opText:"Teksti",opValue:"Arvo",btnAdd:"Lisää",btnModify:"Muuta",btnUp:"Ylös",btnDown:"Alas",btnSetValue:"Aseta valituksi",btnDelete:"Poista"},textarea:{title:"Tekstilaatikon ominaisuudet",cols:"Sarakkeita",rows:"Rivejä"},textfield:{title:"Tekstikentän ominaisuudet",name:"Nimi",value:"Arvo",charWidth:"Leveys",maxChars:"Maksimi merkkimäärä",
+required:"Required",type:"Tyyppi",typeText:"Teksti",typePass:"Salasana",typeEmail:"Sähköposti",typeSearch:"Haku",typeTel:"Puhelinnumero",typeUrl:"Osoite"}});
